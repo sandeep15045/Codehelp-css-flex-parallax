@@ -1,0 +1,17 @@
+
+.container{
+    height: 100px;
+    border: 2px solid salmon;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.box{
+    color: black;
+    border: 1px solid rgb(188, 115, 13);
+    background-color: aqua;
+    width:100px;
+}
