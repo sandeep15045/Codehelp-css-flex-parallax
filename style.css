@@ -12,9 +12,10 @@
     color: black;
     border: 1px solid rgb(188, 115, 13);
     background-color: aqua;
-    width: 100px;
+    flex-basis: 100px;
+    /* width: 100px; */
 }
 #box1{  
-    flex-shrink: 10;
+    /* flex-shrink: 10; */
 }
 
